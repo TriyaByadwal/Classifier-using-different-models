@@ -1,1 +1,1 @@
-# Classifier-using-different-regression-models
+# Classifier-using-different-models
